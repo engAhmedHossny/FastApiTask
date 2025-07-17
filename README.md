@@ -83,4 +83,4 @@ Access the **Swagger UI** for interactive API docs at:
   - Validating incoming requests with clear messages
   - Returning proper HTTP status codes and descriptive error messages
 - ✅ A **unit test** file is included for debugging and reliability.
-- ✅ A **Request Cashe** file is included (5.min duration) for optimization and reliability
+- ✅ A **Request Cashing** file is included (5.min duration) for optimization and reliability
